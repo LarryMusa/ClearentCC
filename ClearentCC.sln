@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearentCC.Tests", "ClearentCC.Tests\ClearentCC.Tests.csproj", "{ECD1B990-5126-4B3E-9E16-729215FA7DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD1B990-5126-4B3E-9E16-729215FA7DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD1B990-5126-4B3E-9E16-729215FA7DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD1B990-5126-4B3E-9E16-729215FA7DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD1B990-5126-4B3E-9E16-729215FA7DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4FC84F3-8378-490E-A46F-18F0DC0E3CA1}
+	EndGlobalSection
+EndGlobal
